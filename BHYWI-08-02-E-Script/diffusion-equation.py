@@ -1,9 +1,9 @@
 import math
 import matplotlib.pylab as plt
 PI = 3.14159265358979323846
-numPoints = 100
+numPoints = 10000
 alpha = 1.0
-t = [0.1,0.5,1.0,2.0]
+t = [0.001,0.1,0.5,0.7,1.0,2.0]
 x = []
 y = []
 for n in t:

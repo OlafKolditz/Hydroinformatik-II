@@ -13,7 +13,7 @@ with open('out.csv','r') as csvfile:
 plt.plot(x,y, label='Data loaded from file: out.cvs')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.title('Hydroinformatics II\nExercise BHYWI-08-02-for-python')
+plt.title('OK: Hydroinformatics II\nExercise BHYWI-08-02-for-python')
 plt.legend()
 plt.savefig("test1.png")
 plt.show()
